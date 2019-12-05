@@ -30,7 +30,7 @@ git config --global --unset https.proxy
 ```
 
 二、SSH
-修改 ~/.ssh/config 文件（不存在则新建）：
+修改 ~/.ssh/config(windows : C:\Users\Administrator\.ssh\config) 文件（不存在则新建）：
 
 ## Host必须是 github.com
 ```
