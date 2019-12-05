@@ -5,10 +5,10 @@
 ## git clone仓库的两种方式
 
 HTTP 形式：
-git clone https://github.com/owner/git.git
+`git clone https://github.com/owner/git.git`
 
 SSH 形式：
-git clone git@github.com:owner/git.git
+`git clone git@github.com:owner/git.git`
 
 一、HTTP
 
