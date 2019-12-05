@@ -10,7 +10,7 @@ HTTP 形式：
 SSH 形式：
 `git clone git@github.com:owner/git.git`
 
-一、HTTP
+> 一、HTTP
 
 use http proxy
 ```
@@ -29,7 +29,7 @@ git config --global --unset http.proxy
 git config --global --unset https.proxy
 ```
 
-二、SSH
+> 二、SSH
 修改 ~/.ssh/config(windows : C:\Users\Administrator\.ssh\config) 文件（不存在则新建）：
 
 ## Host必须是 github.com
