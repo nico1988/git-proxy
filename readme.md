@@ -1,6 +1,6 @@
 内网使用git的时候由于某些原因导致网络不通畅或者下载速度很慢,使用git proxy可以完美的解决github访问慢的问题,体验github非一般的下载速度
 ## 前提
-搭建自己的代理服务器,可以使用[shadowsocks](https://github.com/shadowsocks/shadowsocks)
+搭建自己的本地代理服务器,可以使用[shadowsocks](https://github.com/shadowsocks/shadowsocks),这里我们指定本地代理服务器的端口为1080
 
 ## git clone仓库的两种方式
 
